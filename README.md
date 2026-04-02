@@ -1,8 +1,9 @@
-# Proyecto Urban Grocers 
-Descripción del Proyecto
+# Proyecto Urban Grocers
+
+## Descripción del Proyecto
 En este proyecto se diseñó y ejecutó un framework de pruebas para la API de la aplicación Urban.Grocers. El objetivo principal fue validar la lógica de negocio de las nuevas funciones del backend, asegurando la integridad de los datos y el correcto funcionamiento de los flujos críticos de la plataforma.
 
-Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Postman: Para el diseño y ejecución de la colección de pruebas de API.
 
 JavaScript: Para la creación de scripts de validación (tests) dentro de Postman.
@@ -11,7 +12,7 @@ SQL: Para la validación de la persistencia de datos en el backend.
 
 Jira: Para la gestión de defectos e informes de incidencias.
 
-Funcionalidades Probadas
+## Funcionalidades Probadas
 Gestión de Carritos: Validación de la creación y actualización de carritos de compras.
 
 Catálogo de Productos: Consulta de disponibilidad y filtrado de productos.
