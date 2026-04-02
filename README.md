@@ -19,7 +19,7 @@ En este proyecto se diseñó y ejecutó un framework de pruebas para la API de l
 ## Cómo Ejecutar las Pruebas
 - Importar Colección: Descargar el archivo JSON de la colección y el entorno (environment) e importarlos en Postman.
 - Configurar URL: Actualizar la variable de entorno baseUrl con la dirección del servidor activo.
-- Ejecutar Pruebas: Iniciar el "Collection Runner" de Postman para ejecutar todos los tests de forma secuencial.
+- Ejecutar Pruebas: Iniciar el "test_create_kit_name_kit.py" de Postman para ejecutar todos los tests de forma secuencial.
 - Verificar Resultados: Revisar la pestaña de "Test Results" para confirmar el estado de las aserciones (Status Codes, JSON Schema, Response Time).
 
 Autor
