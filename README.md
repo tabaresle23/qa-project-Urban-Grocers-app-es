@@ -10,8 +10,8 @@ En este proyecto se diseñó y ejecutó un framework de pruebas para la API de l
 -Jira: Para la gestión de defectos e informes de incidencias.
 
 ## Funcionalidades Probadas
-- Gestión de rutas: Validación de la creación y actualización de recorridos.
-- Catálogo de Productos: Consulta de disponibilidad y filtrado de servicios.
+- Gestión de productos: Validación de la creación y actualización de productos.
+- Catálogo de Productos: Consulta de disponibilidad y filtrado de articulos.
 - Perfil de Usuario: Actualización de datos del cliente y validación de sesiones.
 -Logística de Envío: Verificación del cálculo de tarifas y tiempos de servicio.
 - Integridad de Base de Datos: Validación de registros mediante consultas SQL directas.
